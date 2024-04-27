@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dialogues xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dialogue>
+        <name>Larry</name>
+        <img>1002</img>
+        <content>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</content>
+    </dialogue>
+    <dialogue>
+        <name>Larry</name>
+        <img>1002</img>
+        <content>bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb</content>
+    </dialogue>
+</dialogues>

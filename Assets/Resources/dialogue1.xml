@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dialogues xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dialogue>
+        <name>Larry</name>
+        <img>1002</img>
+        <content>Welcome to Hilton University. I am sure that you have a lot of questions. But before you ask them, let me first show you around the campus and help you to get familiar with the important buildings and places at our school.</content>
+    </dialogue>
+    <dialogue>
+        <name>Larry</name>
+        <img>1002</img>
+        <content>Hilton2</content>
+    </dialogue>
+</dialogues>
